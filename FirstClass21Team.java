@@ -5,5 +5,6 @@ public class FirstClass21Team
         System.out.println("這是用來練習GitHub協作的程式!");
         System.out.println("\"學號：\"01157010\"\n姓名：\"蔡豐蔚\"");
         System.out.println("\"學號：\"01157024\"\n姓名：\"蕭宇翔\"");
+        System.out.println("\"學號：\"01157020\"\n姓名：\"甘御廷\"");
     }
 }
